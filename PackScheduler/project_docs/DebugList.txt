@@ -1,0 +1,5 @@
+Things to Debug
+
+1. Need to create getters and setters
+2. Need to implement Registration Constructor using setter methods
+3. 
