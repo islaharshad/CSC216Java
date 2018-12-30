@@ -5,7 +5,7 @@ package edu.ncsu.csc216.pack_scheduler.course;
 
 /**
  * This is a sub/child class of super class Exception that throws conflict exception
- * @author premsubedi
+ * @author premsubedi, isla arshad
  */
 public class ConflictException extends Exception {
 	

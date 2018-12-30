@@ -3,7 +3,7 @@ package edu.ncsu.csc216.pack_scheduler.course;
 /**
  * This is an super class (common/generic class) which let's its sub-classes to use 
  * and implement its method based on their type
- * @author premsubedi
+ * @author premsubedi, isla arshad
  */
 public abstract class Activity implements Conflict {
 	

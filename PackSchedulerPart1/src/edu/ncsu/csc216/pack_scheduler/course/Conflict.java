@@ -5,7 +5,7 @@ package edu.ncsu.csc216.pack_scheduler.course;
 
 /**
  * An interface 
- * @author premsubedi
+ * @author premsubedi, isla arshad
  */
 public interface Conflict {
 	/** 

@@ -2,7 +2,7 @@ package edu.ncsu.csc216.pack_scheduler.user;
 
 /**
  * This is an abstract (super) class of Student and Registrar
- * @author premsubedi
+ * @author premsubedi, isla arshad
  */
 public abstract class User {
 

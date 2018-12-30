@@ -12,7 +12,7 @@ import java.util.AbstractList;
 
  * the courses in the university
 
- * @author Isla Huddin, Edwerdo, premsubedi
+ * @author Islahuddin, Edwerdo, premsubedi
 
  * @param <E> type of element in an arrayList.
 
