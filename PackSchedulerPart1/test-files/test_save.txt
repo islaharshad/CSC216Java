@@ -1,3 +1,0 @@
-CSC215,Intro to Programming - C,001,3,jesmith2,10,MW,930,1200
-CSC216,Intro to Programming - Java,001,3,jesmith2,10,MW,930,1200
-CSC216,Intro to Programming - Java,002,3,jesmith2,10,MW,1230,1500
